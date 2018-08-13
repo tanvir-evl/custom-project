@@ -10,7 +10,7 @@
         Automated Database Backup
     """,
 
-    'author': "TEST PROJECT",
+    'author': "Tanvir",
     'website': "http://www.ergo-ventures.com",
 
     # Categories can be used to filter modules in modules listing
