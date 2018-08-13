@@ -7,7 +7,7 @@
         """,
 
     'description': """
-        Automated Database Backup
+        Automatic Database Backup
     """,
 
     'author': "Tanvir Faisal",
