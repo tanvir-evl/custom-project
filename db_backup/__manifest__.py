@@ -7,7 +7,7 @@
         """,
 
     'description': """
-        Automatic Database Backup
+        Automatic Database Backup Ergo
     """,
 
     'author': "Tanvir Faisal",
