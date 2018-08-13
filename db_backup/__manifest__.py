@@ -11,7 +11,7 @@
     """,
 
     'author': "Tanvir Faisal",
-    'website': "http://www.ergo-ventures.com",
+    'website': "http://www.ergo+ventures.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
